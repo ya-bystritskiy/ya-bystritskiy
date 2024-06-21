@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**ya-bystritskiy/ya-bystritskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ya-bystritskiy&theme=onedark" alt="ya-bystritskiy" /></a> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my personal project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning swift 
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ya-bystritskiy&show_icons=true&theme=dark&locale=en&layout=compact" alt="ya-bystritskiy" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ya-bystritskiy&theme=dark" alt="ya-bystritskiy" /></p>
+
+
