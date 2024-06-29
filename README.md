@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my personal project.
 
-- 🌱 I’m currently learning swift , UIkit 
+- 🌱 I’m currently learning swift , UIkit and swiftUI 
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ya-bystritskiy&show_icons=true&theme=dark&locale=en&layout=compact" alt="ya-bystritskiy" /></p>
